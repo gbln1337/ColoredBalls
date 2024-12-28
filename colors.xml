@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="PastelBrown">#FFF476</color>
+    <color name="lightPink">#FFF476</color>
+    <color name="GreenBeige">#F78154</color>
+    <color name="DarkGreen">#4D9078</color>
+    <color name="CalmGreen">#B4436C</color>
+    <color name="IntenseRed">#FF689B</color>
+    <color name="Russet">#146AD7</color>
+
+</resources>
